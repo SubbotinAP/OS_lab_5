@@ -1,0 +1,7 @@
+echo "*.o" > .gitignore
+echo "fork_task" >> .gitignore
+echo "thread_task" >> .gitignore
+echo "exec_task" >> .gitignore
+echo "*.pdf" >> .gitignore
+echo "*.aux" >> .gitignore
+echo "*.log" >> .gitignore
